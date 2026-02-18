@@ -13,7 +13,9 @@
     "beautifulsoup4",
     "lxml",
     "pycryptodome",
-    "pypdf"
+    "pypdf",
+    "cloudscraper",
+    "PyMuPDF"
   ],
-  "version": "2.10.0"
+  "version": "2.11.0"
 }
